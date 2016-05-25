@@ -1,0 +1,64 @@
+.slogan {
+  height: 92vh;
+}
+
+.img-container {
+  display: flex;
+  justify-content: center;
+  height: 380px;
+}
+
+.slogan-container {
+  font-size: 2em;
+}
+
+.slogan-text {
+  font-size: 1.5em;
+}
+
+.problem-mission {
+  height: 100vh;
+}
+
+.our-problem, .our-mission {
+  font-size: 4em;
+}
+
+.our-problem-text, .our-mission-text {
+  font-size:2em;
+}
+
+.the-team {
+  height: 80vh;
+}
+
+.member-block {
+  padding: 0 15px;
+}
+
+.member-picture-container {
+  display: flex;
+  justify-content: center;
+  height: 160px;
+}
+
+.member-picture {
+  width:170px;
+}
+
+.member-container {
+  height:400px;
+}
+
+nav, footer{
+  background-color: #A96A51 !important;
+}
+
+.videos {
+  color:#F3D89F;
+}
+
+#videos-button {
+  color:#F3D89F;
+  background-color: #A96A51;
+}
